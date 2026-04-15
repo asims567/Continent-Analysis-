@@ -1,1 +1,10 @@
-# Continent-Analysis-
+# Continent-Analysis
+This dataset is provided by R and has factors including country type, continent type, year, life expectancy, population and GDP per Capita. 
+
+## Histogram for Life Expectancy
+
+<img width="428" height="241" alt="dadaa091-f698-43bb-bc2a-77f5cf296356" src="https://github.com/user-attachments/assets/a95ab3ff-6397-4469-b520-74d11859dbd2" />
+
+The histogram shows a left-skewed distribution, meaning most people have a high life expectancy (peaking between 70–75 years) while a smaller group pulls the average lower. It is also bimodal, suggesting the data likely covers two distinct groups, such as developed and developing regions.
+
+

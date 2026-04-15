@@ -8,3 +8,9 @@ This dataset is provided by R and has factors including country type, continent 
 The histogram shows a left-skewed distribution, meaning most people have a high life expectancy (peaking between 70–75 years) while a smaller group pulls the average lower. It is also bimodal, suggesting the data likely covers two distinct groups, such as developed and developing regions.
 
 
+## Boxplot for LifeExp vs Continents
+
+<img width="210" height="236" alt="6ff001e1-6824-4544-84c9-3b2385117537" src="https://github.com/user-attachments/assets/c26b6e92-c228-4e82-9889-f2466fdd8b35" />
+
+
+The boxplot illustrates that Oceania has the highest and most consistent life expectancy, while Africa has the lowest median and a large cluster of high-performing outliers. Asia shows the greatest overall variability, indicating a wide gap between countries with the lowest and highest life expectancies on that continent.

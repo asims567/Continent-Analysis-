@@ -1,5 +1,5 @@
 # Continent-Analysis
-This dataset is provided by R and has factors including country type, continent type, year, life expectancy, population and GDP per Capita. 
+The primary data frame, gapminder, contains 1,704 observations and 6 variables. It covers 142 countries with data recorded every five years from 1952 to 2007. Variables (Columns) country: Factor with 142 levels. Continent: Factor with 5 levels (Africa, Americas, Asia, Europe, Oceania). Year: Integer ranging from 1952 to 2007 in 5-year increments. LifeExp: Life expectancy at birth, in years. Pop: Total population. GdpPercap: GDP per capita in US dollars, adjusted for inflation and purchasing power parity (PPP).
 
 ## Histogram for Life Expectancy
 

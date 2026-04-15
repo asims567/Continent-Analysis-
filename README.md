@@ -14,3 +14,10 @@ The histogram shows a left-skewed distribution, meaning most people have a high 
 
 
 The boxplot illustrates that Oceania has the highest and most consistent life expectancy, while Africa has the lowest median and a large cluster of high-performing outliers. Asia shows the greatest overall variability, indicating a wide gap between countries with the lowest and highest life expectancies on that continent.
+
+## LifeExp vs GDP/Capita
+
+<img width="210" height="236" alt="76be6d24-3ecc-4b69-a9a6-0b4c3eaf5782" src="https://github.com/user-attachments/assets/9a4d24dd-2165-4a98-9b12-5e59a9ea26bf" />
+
+
+The scatter plots demonstrate a strong positive correlation between GDP per capita and life expectancy across all four continents, indicating that higher national wealth generally leads to longer life expectancies. Europe and the Americas show more concentrated data at the higher end of both scales, while Africa and Asia exhibit wider disparities, with many nations starting at significantly lower life expectancy levels. The blue trend lines confirm a consistent upward trajectory over time (indicated by the lighter blue shading for more recent years), suggesting that global health outcomes have improved as economies have grown.
